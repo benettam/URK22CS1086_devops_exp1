@@ -3,3 +3,4 @@ def factorial(n):
 
 num = int(input("Enter a number: "))
 print("Factorial is:", factorial(num))
+print("This is from the feature branch.")
